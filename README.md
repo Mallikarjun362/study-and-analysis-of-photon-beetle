@@ -1,4 +1,4 @@
-# 1_IMPLEMENTATION.ipynb
+# 1_IMPLEMENTATION
 This folder contains the Implementation and Execution of PHOTON-Beetle-AEAD Encryption , Decryption and Hash Function
 
 # 2_AUTOMATED_CRYPTANALYSIS
